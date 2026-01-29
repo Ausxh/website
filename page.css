@@ -52,7 +52,7 @@ a{
 }
 
 a:hover{
-	color: var(--light);
+	color: var(--accent1);
 }
 
 .button{
@@ -82,5 +82,10 @@ a:hover{
 
 .container{
 	padding-top: 1.5vw;
+	padding-bottom: 1.5vw;
+}
+
+.header{
+	padding-top: 0.5vw;
 	padding-bottom: 1.5vw;
 }
